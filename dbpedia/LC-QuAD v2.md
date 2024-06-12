@@ -5,7 +5,7 @@ datasetUrl: https://figshare.com/projects/LCQuAD_2_0/62270
 
 |      Model / System       | Year | Precision | Recall |  F1   | Hits@1 | Language |                                     Reported by                                      | Gold Entity |
 | :-----------------------: | :--: | :-------: | :----: | :---: | :----: | :------: | :----------------------------------------------------------------------------------: | :---------: |
-|         TSET-Small          | 2024 |     -     |   -    |  94.0   |   -    |    EN    |               [Qi et al] (https://www.mdpi.com/2076-3417/14/4/1521)                |     ✅      |
+|         TSET-Small          | 2024 |     -     |   -    |  94.0   |   -    |    EN    |               [Qi et al](https://www.mdpi.com/2076-3417/14/4/1521)                |     ✅      |
 |         TSET-Base          | 2024 |     -     |   -    |  95.0   |   -    |    EN    |               [Qi et al.](https://www.mdpi.com/2076-3417/14/4/1521)                |     ✅      |
 |         T5-Small          | 2022 |     -     |   -    |  92   |   -    |    EN    |               [Banerjee et al.](https://arxiv.org/pdf/2204.12793.pdf)                |     ✅      |
 |          T5-Base          | 2022 |     -     |   -    |  91   |   -    |    EN    |               [Banerjee et al.](https://arxiv.org/pdf/2204.12793.pdf)                |     ✅      |
