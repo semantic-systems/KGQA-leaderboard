@@ -5,6 +5,8 @@
 
 |       Model / System       |     Year     |   Precision   |    Recall     |      F1       |                            Language                             |                              Reported by                               |
 |:--------------------------:|:------------:|:-------------:|:-------------:|:-------------:|:---------------------------------------------------------------:|:----------------------------------------------------------------------:|
+| TSET-Small |     2024     |  |  | 47.15 |                               EN                                | [Qi et. al.](https://www.mdpi.com/2076-3417/14/4/1521) | 
+| TSET-Base |     2024     |  |  | 51.37 |                               EN                                | [Qi et. al.](https://www.mdpi.com/2076-3417/14/4/1521) |
 | Borroto et al. (SPARQL-QA) |     2022     | 45.38 (Macro) | 45.74 (Macro) | 59.47 (Macro) |                               EN                                | [GERBIL](https://gerbil-qa.aksw.org/gerbil/experiment?id=202205200035) | 
 |          QAnswer           |     2022     | 50.68 (Macro) | 52.38 (Macro) | 57.76 (Macro) |                               EN                                | [GERBIL](https://gerbil-qa.aksw.org/gerbil/experiment?id=202205120000) |
 |      Steinmetz et al.      |     2022     | 32.06 (Macro) | 33.12 (Macro) | 49.09 (Macro) |                               EN                                | [GERBIL](https://gerbil-qa.aksw.org/gerbil/experiment?id=202205260012) |
