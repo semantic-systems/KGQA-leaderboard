@@ -26,6 +26,9 @@
 |        QNRKGQA+h         | 2022 |  -   |    51.5    |     -     |    EN    | [Ma et al.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_11) |
 |          SR+NSM          | 2022 |  -   |    50.2    |      -    |   EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
 |         QNRKGQA          | 2022 |  -   |    50.5    |      -    |   EN    | [Ma et al.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_11) |
+|         RCAANet          | 2024 |  -   |    50.5    |      -    |   EN    |     [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)       |
+|         RE-KBQA          | 2024 |  -   |    50.3    |      -    |   EN    |     [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)       |
+|          DGEN            | 2024 |  -   |    49.5    |      -    |   EN    |     [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)       |
 |        NSM-distill       | 2022 |  -   |    48.8    |     -     |    EN    | [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf) |
 |        Rigel             | 2022 |  -   |    48.7    |     -     |    EN    | [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf) |
 |        TransferNet       | 2022 |  -   |    48.6    |     -     |    EN    | [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf) |
