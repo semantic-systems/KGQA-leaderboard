@@ -31,6 +31,7 @@
 |        TransferNet       | 2022 |  -   |    48.6    |     -     |    EN    | [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf) |
 |        PullNet           | 2022 |  -   |    45.9    |     -     |    EN    | [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf) |
 |   MRP-QA-marginal_prob   | 2022 | 49.9 |    -       |     -     |    EN    |   [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)            |
+|    QRGAT     | 2024 | 49.7  |    52.4     |      -    |   EN    |        [Zhang et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472080)         |
 |    ProgramTransfer-f     | 2022 | 45.9 |    45.2    |     -     |    EN    |        [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)         |
 |          KBIGER          | 2022 | 45.5 |    50.2    |     -     |    EN    |              [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)              |
 |           TERP           | 2022 |  -   |    49.2    |      -    |   EN    | [Qiao et al.](https://aclanthology.org/2022.coling-1.156.pdf)  |
