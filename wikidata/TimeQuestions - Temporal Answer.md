@@ -7,6 +7,7 @@
 |:--------------:|:----:|:-----------:|:------:|:-------:|:-------:|:------------------------------------------------------:|
 |     TwiRGCN (interval)   | 2022 |    -        | -      |  -  | 0.646 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
 |     EXAQT      | 2022 |    -        | -      |  - | 0.642 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
+|    QC-MHM     | 2024 |    -    | - | -  |  0.607  |[Xue et. al.](https://arxiv.org/html/2402.13188v1#Sx5) |
 |     Graft-Net   | 2022 |    -        | -      |  - | 0.515 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
 |    CronKGQA     | 2022 |    -        | -      |  - | 0.511 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
 |    TempoQR   | 2022 |    -        | -      |  - | 0.4 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
