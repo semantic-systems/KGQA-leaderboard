@@ -68,6 +68,7 @@
 |               SQALER                | 2022 |     -      |    70.6    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
 |                STAGG                | 2015 |   69.00    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
 |                UHop                 | 2019 |    68.5    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
+|                    GRGAT            | 2024 |    68.5    |    74.4    |  -   |    EN    |                   [Zhang et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472080)                   |
 |               KBIGER                | 2022 |    68.4    |    75.3    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |                 NSM                 | 2022 |     -      |    69.0    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
 |           GraftNet-EF+LF            | 2018 |     -      |    68.7    |    -     |    EN    |                  [Sun et al.](https://aclanthology.org/D18-1455.pdf)                  |
@@ -99,4 +100,3 @@
 |               ReifKB                | 2020 |     -      |    52.7    |    -     |    EN    |                 [Cohen et al.](https://arxiv.org/pdf/2002.06115.pdf)                  |
 |               KV-Mem                | 2022 |    38.6    |    46.7    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |            KGQA-RR(GPT2)            | 2023 |     -      |     -      |  18.11   |    EN    |                   [Hu et al.](https://arxiv.org/pdf/2303.10368.pdf)                   |
-|                    GRGAT            | 2024 |    68.5    |    74.4    |  -   |    EN    |                   [Zhang et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472080)                   |
