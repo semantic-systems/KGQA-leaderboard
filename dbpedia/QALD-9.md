@@ -7,6 +7,7 @@
 
 |       Model / System       | Year | Precision | Recall |  F1   |Language|                                                                                   Reported by                                                                                    |
 |:--------------------------:|:----:|:---------:|:------:|:-----:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Elahi et al.        | 2024 |     95    |   76   | 85 |   EN   |                                                     [Elahi et al.](https://www.semantic-web-journal.net/system/files/swj3619.pdf)                                                      |
 |          SGPT_Q,K          | 2022 |     -     |   -    | 67.82 |   EN   |                                                     [Al Hasan Rony et al](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9815253)                                                      |
 |           SGPT_Q           | 2022 |     -     |   -    | 60.22 |   EN   |                                                     [Al Hasan Rony et al](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9815253)                                                      |
 |    Stage I No Noise [2]    | 2022 |   80.40   | 42.10  | 55.30 | EN | [Purkayastha et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9892263) |
