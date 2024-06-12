@@ -18,3 +18,4 @@
 |   Graft-Net    | 2021 |    0.445    | 0.478 | 0.531  |  -  |[Jia et. al.](https://dl.acm.org/doi/abs/10.1145/3459637.3482416) |
 |    UNIQORN     | 2021 |    0.318    | 0.406 | 0.536  | -  | [Jia et. al.](https://dl.acm.org/doi/abs/10.1145/3459637.3482416) |
 |    PullNet     | 2021 |    0.105    | 0.136 | 0.186  |  -  |[Jia et. al.](https://dl.acm.org/doi/abs/10.1145/3459637.3482416) |
+|    QC-MHM     | 2024 |    -    | - | -  |  0.533  |[Xue et. al.](https://arxiv.org/html/2402.13188v1#Sx5) |
