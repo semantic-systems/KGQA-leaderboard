@@ -5,7 +5,10 @@
 
 | Model / System | Year | Hits@1 | Hits@10 |                                  Reported by                                  |
 | :------------: | :--: | :----: | :-----: | :---------------------------------------------------------------------------: |
+|  SERQA-hard  | 2024 | 0.934  |  0.980  |          [Du et. al.]([https://arxiv.org/pdf/2112.05785.pdf](https://link.springer.com/article/10.1007/s10844-024-00840-5))           |
 |  TempoQR-Hard  | 2021 | 0.918  |  0.978  |          [Mavromatis et. al.](https://arxiv.org/pdf/2112.05785.pdf)           |
+|  SERQA-soft  | 2024 | 0.811  |  0.960  |          [Du et. al.]([https://arxiv.org/pdf/2112.05785.pdf](https://link.springer.com/article/10.1007/s10844-024-00840-5))           |
+
 |  TempoQR-Soft  | 2021 | 0.799  |  0.957  |          [Mavromatis et. al.](https://arxiv.org/pdf/2112.05785.pdf)           |
 |      TMA       | 2021 | 0.784  |  0.943  |              [Liu et. al.](https://arxiv.org/pdf/2302.12529.pdf)              |
 |    EntityQR    | 2021 | 0.745  |  0.944  |          [Mavromatis et. al.](https://arxiv.org/pdf/2112.05785.pdf)           |
