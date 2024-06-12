@@ -102,3 +102,12 @@
 |               ReifKB                | 2020 |     -      |    52.7    |    -     |    EN    |                 [Cohen et al.](https://arxiv.org/pdf/2002.06115.pdf)                  |
 |               KV-Mem                | 2022 |    38.6    |    46.7    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |            KGQA-RR(GPT2)            | 2023 |     -      |     -      |  18.11   |    EN    |                   [Hu et al.](https://arxiv.org/pdf/2303.10368.pdf)                   |
+|   EffiQA w/Deepseek-V2   |  2024 |  -   |    67.4    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|     EffiQA w/ChatGPT     |  2024 |  -   |    65.2    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 | 
+|      EffiQA w/GPT-4      |  2024 |  -   |    82.9    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      Prior FT SOTA      |  2024 |  -   |    82.1    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      Prior Prompting SOTA      |  2024 |  -   |    74.4    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      Prior tight-coupling SOTA      |  2024 |  -   |    82.6    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      SC w/ChatGPT      |  2024 |  -   |    61.1    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      CoT w/ChatGPT      |  2024 |  -   |    62.2    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      IO prompt w/ChatGPT      |  2024 |  -   |    63.3    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |

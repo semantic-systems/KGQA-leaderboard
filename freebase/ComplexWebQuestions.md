@@ -57,3 +57,11 @@
 |           UHop           | 2019 | 29.8 |     -      |      -    |   EN    |             [Chen et al.](https://arxiv.org/pdf/1904.01246.pdf)             |
 |        GRAFT-Net         | 2022 | 26.0 |    -       |     -     |    EN    |   [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)            |
 |    ProgramTransfer-p     | 2022 | 2.3  |    2.1     |      -    |   EN    |        [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)         |
+|   EffiQA w/Deepseek-V2   |  2024 |  -   |    61.7    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|     EffiQA w/ChatGPT     |  2024 |  -   |    52.1    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 | 
+|      EffiQA w/GPT-4      |  2024 |  -   |    69.5    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      Prior FT SOTA      |  2024 |  -   |    70.4    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      Prior tight-coupling SOTA      |  2024 |  -   |    72.5    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      SC w/ChatGPT      |  2024 |  -   |    45.4    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      CoT w/ChatGPT      |  2024 |  -   |    38.8    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
+|      IO prompt w/ChatGPT      |  2024 |  -   |    37.6    |      -   |   EN     |              [Dong et al.](https://arxiv.org/pdf/2406.01238)                 |
