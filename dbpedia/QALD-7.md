@@ -8,6 +8,9 @@
 |:----------------------------:|:----:|:--------:|:------:|:-----:|:-------:|:-------:|:-----------------------------------------------------------------------------:|
 |             LAMA             | 2019 |    -     |   -    | 90.50 |    -    |   EN    |            [Radoev et. al.](https://arxiv.org/pdf/2004.13843.pdf)             |
 |         Elahi et al.        | 2024 |     79    |   93   | 86 |     |  EN                                    |               [Elahi et al.](https://www.semantic-web-journal.net/system/files/swj3619.pdf)                                                      |
+|         Elahi et al.        | 2024 |     74    |   71   | 73 |     |  DE                                   |               [Elahi et al.](https://www.semantic-web-journal.net/system/files/swj3619.pdf)                                                      |
+|         Elahi et al.        | 2024 |     72    |   85   | 78 |     |  IT                                    |               [Elahi et al.](https://www.semantic-web-journal.net/system/files/swj3619.pdf)                                                      |
+|         Elahi et al.        | 2024 |     84    |   78   | 81 |     |  SP                                    |               [Elahi et al.](https://www.semantic-web-journal.net/system/files/swj3619.pdf)                                                      |
 |         LingTeQA [1]         | 2020 |  63.40   | 73.50  | 64.20 |    -    |   EN    |    [D. Nhuan et al](https://ieeexplore.ieee.org/abstract/document/9282949)    |
 |         Liang et al.         | 2021 |  81.30   | 52.70  | 63.90 |    -    |   EN    |[Liang et al.](https://assets.researchsquare.com/files/rs-70794/v1_stamped.pdf)|
 |   Ensemble BR framework    | 2023 |   59.80   | 69.60  | 61.20 |    -    |   EN   | [Chen et al.](https://assets.researchsquare.com/files/rs-2676239/v1_covered.pdf?c=1680800823) |
