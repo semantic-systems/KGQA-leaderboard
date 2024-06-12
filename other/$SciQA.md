@@ -1,0 +1,2 @@
+## References
+<a name="myfootnote1">[1]</a> Auer, S., Barone, D.A.C., Bartz, C. et al. "The SciQA Scientific Question Answering Benchmark for Scholarly Knowledge". https://doi.org/10.1038/s41598-023-33607-z
