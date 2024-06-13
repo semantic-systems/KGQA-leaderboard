@@ -21,7 +21,7 @@
 |                TERP                 | 2022 |  97.5  |  -   |      -      |    EN    |           [Qiao et al.](https://aclanthology.org/2022.coling-1.156.pdf)            |
 |              GRAFT-Net              | 2022 |  97.4  | 91.0 |      -      |    EN    |    [Zhang et al.](https://downloads.hindawi.com/journals/cin/2022/4734179.pdf)     |
 |            ARN_DistMult             | 2023 | 97.12  |  -   |      -      |    EN    |                 [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)                  |
-|              ARN_TuckER               | 2023 | 97.11  |  -   |      -      |    EN    |                 [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)                  |
+|              ARN_TuckER             | 2023 | 97.11  |  -   |      -      |    EN    |                 [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)                  |
 |                 NSM                 | 2021 |  97.1  |  -   |      -      |    EN    |                 [He et al.](https://arxiv.org/pdf/2101.03737.pdf)                  |
 |             ARN_ComplEx             | 2023 | 97.09  |  -   |      -      |    EN    |                 [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)                  |
 |                 SRN                 | 2020 |  97.0  |  -   |      -      |    EN    |            [Qiu et al.](https://dl.acm.org/doi/10.1145/3336191.3371812)            |
