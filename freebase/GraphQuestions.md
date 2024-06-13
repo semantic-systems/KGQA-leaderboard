@@ -21,5 +21,9 @@
 | UDepLambda                        | 2023 |    -     |  17.7  | -         | -         | -          | [Shu et al.](https://arxiv.org/pdf/2309.08345.pdf)        |
 | LGOT                              | 2024 |    -     |     -  | 100.0     | 100.0     | 100.0      | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
 | QTO                               | 2024 |    -     |     -  | 100.0     | 100.0     | 100.0      | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
+| LGOT     (50% KG)                 | 2024 |    -     |     -  | 52.2      | 52.8      | 52.8       | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
+| ChatGPT  (50% KG)                 | 2024 |    -     |     -  | 28.8      | 30.3      | 33.3       | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
+| QTO      (50% KG)                 | 2024 |    -     |     -  | 26.8      | 26.8      | 26.8       | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
 | CoT                               | 2024 |    -     |     -  | 18.7      | 19.4      | 19.4       | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
+| CoT      (50% KG)                 | 2024 |    -     |     -  | 18.7      | 19.4      | 19.4       | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
 | ChatGPT                           | 2024 |    -     |     -  | 18.4      | 19.0      | 21.5       | [Liu et al.](https://arxiv.org/pdf/2404.04264)            |
