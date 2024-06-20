@@ -26,6 +26,7 @@
 |               QNRKGQA               | 2022 |     -      |    74.9    |    -     |    EN    |      [Ma et al.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_11)      |
 |               ReTrack               | 2022 |    74.7    |     -      |    -     |    EN    |              [Hu et al.](https://aclanthology.org/2022.coling-1.145.pdf)              |
 |               ReTrack               | 2021 |    74.6    |    74.7    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|                DGEN                 | 2024 |     -      |    74.5    |    -     |    EN    |                   [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)   |
 |             BART-large              | 2022 |    74.6    |     -      |    -     |    EN    |              [Hu et al.](https://aclanthology.org/2022.coling-1.145.pdf)              |
 |         Subgraph Retrieval          | 2022 |    74.5    |    83.2    |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |                 QGG                 | 2022 |    74.0    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
@@ -52,6 +53,7 @@
 |                 NSM                 | 2021 |     -      |   74.30    |    -     |    EN    |                   [He et al.](https://arxiv.org/pdf/2101.03737.pdf)                   |
 |                Rigel                | 2022 |     -      |    73.3    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
 |                 SGM                 | 2022 |   72.36    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
+|               RCAANet               | 2024 |    72.3    |    76.4    |    -     |    EN    |    [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)                  |
 |              CBR-SUBG               | 2022 |    72.1    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |                 NPI                 | 2022 |     -      |    72.6    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
 |               TextRay               | 2022 |     -      |    72.2    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
@@ -68,6 +70,7 @@
 |               SQALER                | 2022 |     -      |    70.6    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
 |                STAGG                | 2015 |   69.00    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
 |                UHop                 | 2019 |    68.5    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
+|               RE-KBQA               | 2024 |    68.5    |    74.6    |    -     |    EN    |                   [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)   |
 |               KBIGER                | 2022 |    68.4    |    75.3    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |                 NSM                 | 2022 |     -      |    69.0    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
 |           GraftNet-EF+LF            | 2018 |     -      |    68.7    |    -     |    EN    |                  [Sun et al.](https://aclanthology.org/D18-1455.pdf)                  |
