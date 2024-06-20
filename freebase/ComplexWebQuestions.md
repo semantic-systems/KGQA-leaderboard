@@ -13,14 +13,20 @@
 |     GPT-3                | 2023 |   -  |    -       |   51.77     |     EN    |    [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)              |
 |     FLAN-T5              | 2023 |   -  |    -       |   46.69     |     EN    |    [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)              |
 |     BART-large           | 2022 | 68.2 |   -        |   -     |     EN    |    [Hu et al.](https://aclanthology.org/2022.coling-1.145.pdf)              |
+|   FiDeLiS + gpt-4-turbo  | 2024 | 64.32|    71.47   |     -     |    EN    |           [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
 |  DECAF (BM25 + FiD-3B)   | 2022 |  -   |    70.4    |    -      |   EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
 |         CBR-KBQA         | 2022 |  -   |    70.4    |    -      |     EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
 | DECAF (BM25 + FiD-large) | 2022 |  -   | 68.1 ± 0.5 |    -      |     EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
 | DECAF (DPR + FiD-large)  | 2022 |  -   | 67.0 ± 0.4 |    -      |     EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
+| FiDeLiS + gpt-3.5-turbo  | 2024 | 61.78|    63.12   |     -     |    EN    |           [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
+|     ToG + gpt-4-turbo    | 2024 | 60.2 |    68.51   |     -     |    EN    |           [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
 |          HGNet           | 2022 |  -   |    58.1    |     -     |    EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
 |     ProgramTransfer      | 2022 | 58.7 |    58.1    |     -     |    EN    |        [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)         |
+|    ToG + gpt-3.5-turbo   | 2024 | 56.96|    57.59   |     -     |    EN    |           [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
+|           RoG            | 2024 | 56.17|    61.39   |     -     |    EN    |           [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
 |    ProgramTransfer-o     | 2022 | 55.8 |    54.7    |     -     |    EN    |        [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)         |
 |    ProgramTransfer-pa    | 2022 | 54.5 |    54.3    |     -     |    EN    |        [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)         |
+|          KD-CoT          | 2024 |  -   |    53.92   |     -     |    EN    |           [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
 |          NSM+h           | 2022 |  -   |    53.9    |     -     |    EN    |              [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)              |
 |        REAREV            | 2022 |  -   |    52.9    |     -     |    EN    | [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf) |
 |        QNRKGQA+h         | 2022 |  -   |    51.5    |     -     |    EN    | [Ma et al.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_11) |
