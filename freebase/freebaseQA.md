@@ -5,6 +5,7 @@
 
 |      Model / System      | Year | Exact Match | Accuracy |  Hits@1   | Language |                      Reported by                       |
 | :----------------------: | :--: | :---------: | :------: | :-------: | :------: | :----------------------------------------------------: |
+|        Sun et al.        | 2024 |      -      |    -     |   84.3    |    EN    |   [Sun et al.](https://aclanthology.org/2024.lrec-main.496.pdf)    |
 | DECAF (DPR + FiD-large)  | 2022 |      -      |    -     | 79.0±0.6  |    EN    |   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)    |
 | DECAF (BM25 + FiD-large) | 2022 |      -      |    -     | 78.8± 0.5 |    EN    |   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)    |
 |           FILM           | 2022 |      -      |    -     |   63.3    |    EN    |   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)    |
