@@ -6,11 +6,14 @@
 |           Model / System            | Year |     F1     |   Hits@1   | Accuracy | Language |                                      Reported by                                      |
 | :---------------------------------: | :--: | :--------: | :--------: | :------: | :------: | :-----------------------------------------------------------------------------------: |
 |               chatGPT               | 2023 |     -      |     -      |  83.70   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
+|               TFS-KBQA              | 2024 |   79.9     |    79.8    |    -     |    EN    |      [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)    |
+|                Pangu                | 2024 |    79.6    |     -      |    -     |    EN    |      [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)    |
 |                TIARA                | 2022 |    78.9    |    75.2    |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |        DECAF (DPR + FiD-3B)         | 2022 |    78.8    |    82.1    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |       FiDeLiS + gpt-4-turbo         | 2024 |   78.32    |    84.39   |    -     |    EN    |              [Sui et al.](https://arxiv.org/pdf/2405.13873)                           |
 |              GPT-3.5v3              | 2023 |     -      |     -      |  79.60   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
 |       DECAF (DPR + FiD-large)       | 2022 | 77.1 ± 0.2 | 80.7 ± 0.2 |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|               FC-KBQA               | 2024 |   76.9     |     -      |    -     |    EN    |      [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)    |
 |       FiDeLiS + gpt-3.5-turbo       | 2024 |   76.78    |    79.32   |    -     |    EN    |              [Sui et al.](https://arxiv.org/pdf/2405.13873)                           |
 |               UniK-QA               | 2022 |     -      |    79.1    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |             Sun et al.              | 2024 |     -      |    77.8    |    -     |    EN    |             [Sun et al.](https://aclanthology.org/2024.lrec-main.496.pdf)             |
