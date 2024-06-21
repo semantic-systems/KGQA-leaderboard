@@ -43,4 +43,5 @@
 |                T5+KG                | 2022 |   -    |  -   |    43.41     |    EN    |       [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)       |
 |                 T5                  | 2022 |   -    |  -   |    42.31     |    EN    |       [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)       |
 |                T5+C4                | 2022 |   -    |  -   |    39.66     |    EN    |       [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)       |
+|               GENConv               | 2024 |   87.06    |  -   |    -    |    EN    | [Thambi et al.](https://link.springer.com/article/10.1007/s10844-023-00839-4)    |
 
