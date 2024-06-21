@@ -6,6 +6,7 @@
 
 | Model / System |Year|Precision|Recall|  F1  |Language|                                   Reported by                                   |
 |:--------------:|:---:|:-------:|:----:|:----:|:------:|:-------------------------------------------------------------------------------:|
+|  Elahi et al.  |2024|     76   |   75  | 75 |   EN   | [Elahi et al.](https://www.semantic-web-journal.net/system/files/swj3619.pdf)   |
 |      Xser      |2020|   74    |  72  |  73  |   EN   |[Diefenbach et al.](http://www.semantic-web-journal.net/system/files/swj2038.pdf)|
 |      UTQA      |2016|    -    |  -   | 65.2 |   EN   |               [Ben Veyseh](https://aclanthology.org/W16-1403.pdf)               |
 |      UTQA      |2020|    -    |  -   |  65  |   EN   |[Diefenbach et al.](http://www.semantic-web-journal.net/system/files/swj2038.pdf)|
