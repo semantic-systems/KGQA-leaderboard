@@ -40,4 +40,5 @@
 |        Supervised embedding         | 2017 |  54.4  |  -   |      -      |    EN    |                [Zhang et al.](https://arxiv.org/pdf/1709.04071.pdf)                |
 |                T5+KG                | 2022 |   -    |  -   |    71.47    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)               |
 |                 T5                  | 2022 |   -    |  -   |    24.5     |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)               |
-|                T5+C4                | 2022 |   -    |  -   |    23.53    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)               |
+|                T5+C4                | 2022 |   -    |  -   |    23.53    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)     |
+|               GENConv               | 2024 |   98.50    |  -   |    -    |    EN    | [Thambi et al.](https://link.springer.com/article/10.1007/s10844-023-00839-4)    |
