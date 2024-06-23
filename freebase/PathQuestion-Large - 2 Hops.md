@@ -6,11 +6,11 @@
 
 |    Model / System    | Year | Precision | Recall |      F1       | Accuracy | Language |                            Reported by                            |
 |:--------------------:|:----:|:---------:|:------:|:-------------:|:--------:|:--------:|:-----------------------------------------------------------------:|
-|    ARN_TuckER     | 2023 |     -      |    -    | 97.50(Hits@1) |    EN    |              [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
-|      ARN_ConvE       | 2023 |     -      |    -    | 95.63(Hits@1) |    EN    |              [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
+|    ARN_TuckER     | 2023 |     -      |    -    | 97.50(Hits@1)  |    -     |    EN    |  [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
+|      ARN_ConvE       | 2023 |     -      |    -    | 95.63(Hits@1)  |    -  |    EN    |  [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
 |     AlAgha, 2022     | 2022 |     -     |   -    | 92.3(Hits@1)  |    -     |    EN    |  [AlAgha, 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9834917)   |
-|     ARN_DistMult     | 2023 |     -      |    -    | 88.75(Hits@1) |    EN    |              [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
-|     ARN_ComplEx      | 2023 |     -      |    -    | 86.88(Hits@1) |    EN    |              [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
+|     ARN_DistMult     | 2023 |     -      |    -    | 88.75(Hits@1) |    -   |    EN    |  [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
+|     ARN_ComplEx      | 2023 |     -      |    -    | 86.88(Hits@1) |    -   |    EN    |  [Cui et al.](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013317)               |
 |    Edge-aware GNN    | 2022 |     -     |   -    | 85.6(Hits@1)  |    -     |    EN    |    [Zhang](https://downloads.hindawi.com/journals/cin/2022/4734179.pdf)   |
 |         ISM          | 2022 |     -     |   -    | 84.9(Hits@1)  |    -     |    EN    |    [AlAgha, 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9834917)             |
 |     TransferNet      | 2022 |     -     |   -    | 84.1(Hits@1)  |    -     |    EN    |    [AlAgha, 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9834917)   |
