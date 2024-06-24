@@ -4,7 +4,7 @@
 ---
 
 |           Model / System            | Year |     F1     |   Hits@1   | Accuracy | Language |                                      Reported by                                      |
-| :---------------------------------: | :--: | :--------: | :--------: | :------: | :------: | :-----------------------------------------------------------------------------------: |
+|:-----------------------------------:| :--: | :--------: | :--------: | :------: | :------: | :-----------------------------------------------------------------------------------: |
 |               chatGPT               | 2023 |     -      |     -      |  83.70   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
 |                TIARA                | 2022 |    78.9    |    75.2    |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |        DECAF (DPR + FiD-3B)         | 2022 |    78.8    |    82.1    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
@@ -68,7 +68,7 @@
 |               SQALER                | 2022 |     -      |    70.6    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
 |                STAGG                | 2015 |   69.00    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
 |                UHop                 | 2019 |    68.5    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
-|                    GRGAT            | 2024 |    68.5    |    74.4    |  -   |    EN    |                   [Zhang et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472080)                   |
+|                QRGAT                | 2024 |    68.5    |    74.4    |  -   |    EN    |                   [Zhang et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472080)                   |
 |               KBIGER                | 2022 |    68.4    |    75.3    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |                 NSM                 | 2022 |     -      |    69.0    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
 |           GraftNet-EF+LF            | 2018 |     -      |    68.7    |    -     |    EN    |                  [Sun et al.](https://aclanthology.org/D18-1455.pdf)                  |
