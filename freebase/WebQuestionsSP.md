@@ -6,11 +6,17 @@
 |           Model / System            | Year |     F1     |   Hits@1   | Accuracy | Language |                                      Reported by                                      |
 | :---------------------------------: | :--: | :--------: | :--------: | :------: | :------: | :-----------------------------------------------------------------------------------: |
 |               chatGPT               | 2023 |     -      |     -      |  83.70   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
+|               TFS-KBQA              | 2024 |   79.9     |    79.8    |    -     |    EN    |      [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)    |
+|                Pangu                | 2024 |    79.6    |     -      |    -     |    EN    |      [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)    |
 |                TIARA                | 2022 |    78.9    |    75.2    |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |        DECAF (DPR + FiD-3B)         | 2022 |    78.8    |    82.1    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|       FiDeLiS + gpt-4-turbo         | 2024 |   78.32    |    84.39   |    -     |    EN    |              [Sui et al.](https://arxiv.org/pdf/2405.13873)                           |
 |              GPT-3.5v3              | 2023 |     -      |     -      |  79.60   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
 |       DECAF (DPR + FiD-large)       | 2022 | 77.1 ± 0.2 | 80.7 ± 0.2 |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|               FC-KBQA               | 2024 |   76.9     |     -      |    -     |    EN    |      [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)    |
+|       FiDeLiS + gpt-3.5-turbo       | 2024 |   76.78    |    79.32   |    -     |    EN    |              [Sui et al.](https://arxiv.org/pdf/2405.13873)                           |
 |               UniK-QA               | 2022 |     -      |    79.1    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|             Sun et al.              | 2024 |     -      |    77.8    |    -     |    EN    |             [Sun et al.](https://aclanthology.org/2024.lrec-main.496.pdf)             |
 |                TERP                 | 2022 |     -      |    76.8    |    -     |    EN    |              [Qiao et al.](https://aclanthology.org/2022.coling-1.156.pdf)            |
 |             SQALER+GNN              | 2022 |     -      |    76.1    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
 |                EmQL                 | 2020 |     -      |    75.5    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
@@ -18,6 +24,7 @@
 |              GPT-3.5v2              | 2023 |     -      |     -      |  72.34   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
 |          Program Transfer           | 2022 |    76.5    |    74.6    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |         RnG-KBQA (T5-large)         | 2022 | 76.2 ± 0.2 | 80.7 ± 0.2 |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|         ToG + gpt-4-turbo           | 2024 |   75.97    |    81.84   |    -     |    EN    |              [Sui et al.](https://arxiv.org/pdf/2405.13873)                           |
 |              RnG-KBQA               | 2022 |    75.6    |     -      |   71.1   |    EN    |              [Hu et al.](https://aclanthology.org/2022.coling-1.145.pdf)              |
 |              ArcaneQA               | 2022 |    75.3    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |              QNRKGQA+h              | 2022 |     -      |    75.7    |    -     |    EN    |      [Ma et al.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_11)      |
@@ -26,6 +33,7 @@
 |               QNRKGQA               | 2022 |     -      |    74.9    |    -     |    EN    |      [Ma et al.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_11)      |
 |               ReTrack               | 2022 |    74.7    |     -      |    -     |    EN    |              [Hu et al.](https://aclanthology.org/2022.coling-1.145.pdf)              |
 |               ReTrack               | 2021 |    74.6    |    74.7    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|                DGEN                 | 2024 |     -      |    74.5    |    -     |    EN    |                   [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)   |
 |             BART-large              | 2022 |    74.6    |     -      |    -     |    EN    |              [Hu et al.](https://aclanthology.org/2022.coling-1.145.pdf)              |
 |         Subgraph Retrieval          | 2022 |    74.5    |    83.2    |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |                 QGG                 | 2022 |    74.0    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
@@ -52,6 +60,8 @@
 |                 NSM                 | 2021 |     -      |   74.30    |    -     |    EN    |                   [He et al.](https://arxiv.org/pdf/2101.03737.pdf)                   |
 |                Rigel                | 2022 |     -      |    73.3    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
 |                 SGM                 | 2022 |   72.36    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
+|        ToG + gpt-3.5-turbo          | 2024 |   72.32    |    75.13   |    -     |    EN    |              [Sui et al.](https://arxiv.org/pdf/2405.13873)                           |
+|               RCAANet               | 2024 |    72.3    |    76.4    |    -     |    EN    |    [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)                  |
 |              CBR-SUBG               | 2022 |    72.1    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |                 NPI                 | 2022 |     -      |    72.6    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
 |               TextRay               | 2022 |     -      |    72.2    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
@@ -66,8 +76,10 @@
 |                HGNet                | 2021 |    70.3    |    70.6    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |           GrailQA Ranking           | 2021 |    70.0    |     -      |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |               SQALER                | 2022 |     -      |    70.6    |    -     |    EN    |     [Costas Mavromatis and George Karypis](https://arxiv.org/pdf/2210.13650.pdf)      |
+|                 RoG                 | 2024 |   69.81    |    83.15   |    -     |    EN    |                     [Sui et al.](https://arxiv.org/pdf/2405.13873)                    |
 |                STAGG                | 2015 |   69.00    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
 |                UHop                 | 2019 |    68.5    |     -      |    -     |    EN    |    [Ma L et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747229)    |
+|               RE-KBQA               | 2024 |    68.5    |    74.6    |    -     |    EN    |                   [Lv et al.](https://www.researchsquare.com/article/rs-4292912/v1)   |
 |               KBIGER                | 2022 |    68.4    |    75.3    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |                 NSM                 | 2022 |     -      |    69.0    |    -     |    EN    |             [Cao et al.](https://aclanthology.org/2022.acl-long.559.pdf)              |
 |           GraftNet-EF+LF            | 2018 |     -      |    68.7    |    -     |    EN    |                  [Sun et al.](https://aclanthology.org/D18-1455.pdf)                  |
@@ -96,6 +108,7 @@
 |               FLAN-T5               | 2023 |     -      |     -      |  59.87   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
 |                KGT5                 | 2022 |    56.1    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
 |                FILM                 | 2022 |    54.7    |     -      |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
+|               KD-CoT                | 2024 |    50.2    |    73.7    |    -     |    EN    |                    [Sui et al.](https://arxiv.org/pdf/2405.13873)                     |
 |               ReifKB                | 2020 |     -      |    52.7    |    -     |    EN    |                 [Cohen et al.](https://arxiv.org/pdf/2002.06115.pdf)                  |
 |               KV-Mem                | 2022 |    38.6    |    46.7    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
 |            KGQA-RR(GPT2)            | 2023 |     -      |     -      |  18.11   |    EN    |                   [Hu et al.](https://arxiv.org/pdf/2303.10368.pdf)                   |

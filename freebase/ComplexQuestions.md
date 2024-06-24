@@ -5,6 +5,7 @@
 
 |   Model / System    |   Year    | Average F1 |                                   Reported by                                |
 |:-------------------:|:---------:|:----------:|:----------------------------------------------------------------------------:|
+|      TFS-KBQA       |   2024    |    44.0    | [Shouhui Wang and Biao Qin](https://aclanthology.org/2024.lrec-main.1074.pdf)|
 |  Lan and Jiang [1]  |   2020    |    43.3    |      [Yonghui Jia and Wenliang Chen](https://arxiv.org/pdf/2204.12808.pdf)   |
 |      Reranking      |   2022    |    42.9    |      [Yonghui Jia and Wenliang Chen](https://arxiv.org/pdf/2204.12808.pdf)   |
 |   Luo et al. [2]    |   2020    |    42.8    |      [Yonghui Jia and Wenliang Chen](https://arxiv.org/pdf/2204.12808.pdf)   |
