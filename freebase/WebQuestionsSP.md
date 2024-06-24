@@ -4,7 +4,7 @@
 ---
 
 |             Model / System             | Year |     F1     |   Hits@1   | Accuracy | Language |                                      Reported by                                      |
-|:--------------------------------------:|:----:|:----------:|:----------:|:--------:| :------: |:-------------------------------------------------------------------------------------:|
+|:--------------------------------------:|:----:|:----------:|:----------:|:--------:|:--------:|:-------------------------------------------------------------------------------------:|
 |                chatGPT                 | 2023 |     -      |     -      |  83.70   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |
 |                 TIARA                  | 2022 |    78.9    |    75.2    |    -     |    EN    |            [Shu et. al.](https://aclanthology.org/2022.emnlp-main.555.pdf)            |
 |          DECAF (DPR + FiD-3B)          | 2022 |    78.8    |    82.1    |    -     |    EN    |                   [Yu et al.](https://arxiv.org/pdf/2210.00063.pdf)                   |
@@ -101,12 +101,12 @@
 |             KGQA-RR(GPT2)              | 2023 |     -      |     -      |  18.11   |    EN    |                   [Hu et al.](https://arxiv.org/pdf/2303.10368.pdf)                   |
 |             GoG w/GPT-3.5              | 2024 |     -      |    78.7    |    -     |    EN    |                     [Xu et al.](https://arxiv.org/pdf/2404.14741)                     |
 |              GoG w/GPT-4               | 2024 |     -      |    84.4    |    -     |    EN    |                     [Xu et al.](https://arxiv.org/pdf/2404.14741)                     |
-|          IO prompt w/ChatGPT           | 2024 |    -       |    63.3    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|          CoT prompt w/ChatGPT          | 2024 |     -      |    62.2    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|          SC prompt w/ChatGPT           | 2024 |     -      |    61.1    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|             Prior FT SOTA              | 2024 |     -      |    82.1    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|     Prior Prompting SOTA               | 2024 |     -      |    74.4    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|            EffiQA w/ChatGPT            | 2024 |     -      |    65.2    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|          EffiQA w/Deepseek-V2          | 2024 |     -      |    67.4    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|             EffiQA w/GPT-4             | 2024 |     -      |    82.9    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
-|        Prior tigh-coupling SOTA        | 2024 |     -      |    82.6    |       -       |       -       |                               EN                                |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|          IO prompt w/ChatGPT           | 2024 |    -       |    63.3    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|          CoT prompt w/ChatGPT          | 2024 |     -      |    62.2    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|          SC prompt w/ChatGPT           | 2024 |     -      |    61.1    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|             Prior FT SOTA              | 2024 |     -      |    82.1    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|     Prior Prompting SOTA               | 2024 |     -      |    74.4    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|            EffiQA w/ChatGPT            | 2024 |     -      |    65.2    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|          EffiQA w/Deepseek-V2          | 2024 |     -      |    67.4    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|             EffiQA w/GPT-4             | 2024 |     -      |    82.9    |    -     |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
+|        Prior tigh-coupling SOTA        | 2024 |     -      |    82.6    |   -      |    EN    |            [Dong et al.](https://arxiv.org/pdf/2406.01238)             |
