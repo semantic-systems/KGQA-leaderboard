@@ -5,6 +5,7 @@
 
 | Model / System | Year | Hits@1 | Hits@10 |                                  Reported by                                  |
 | :------------: | :--: | :----: | :-----: | :---------------------------------------------------------------------------: |
+|     QC-MHM      | 2024 | 0.971  |    0.992    | [Xue et. al.](https://arxiv.org/html/2402.13188v1#Sx5) |
 |  TempoQR-Hard  | 2021 | 0.918  |  0.978  |          [Mavromatis et. al.](https://arxiv.org/pdf/2112.05785.pdf)           |
 |  TempoQR-Soft  | 2021 | 0.799  |  0.957  |          [Mavromatis et. al.](https://arxiv.org/pdf/2112.05785.pdf)           |
 |      TMA       | 2021 | 0.784  |  0.943  |              [Liu et. al.](https://arxiv.org/pdf/2302.12529.pdf)              |

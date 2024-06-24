@@ -36,3 +36,4 @@
 |       Qanary(TM+DP+QB)       | 2021 |    -     |   -    |   6   |    -    |   EN    |             [Orogat et al.](https://arxiv.org/pdf/2105.00811.pdf)             |
 |  Entity Type Tags Modified   |2022|    -     |   -    |   -   |  76.69  |   EN    | [Lin and Lu](https://journals.riverpublishers.com/index.php/JWE/article/view/11463/14671)             |
 |       SPARQL Generator       |2022|    -     |   -    |   -   |  60.74  |   EN    | [Lin and Lu](https://journals.riverpublishers.com/index.php/JWE/article/view/11463/14671)             |
+|       KGQA^{PT}       | 2024 |   79.4    |   28.5    |   41.9   |    -    |   PT    |             [Miranda et al.](https://aclanthology.org/2024.propor-1.6.pdf)             |

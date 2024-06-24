@@ -8,6 +8,7 @@
 |:--------------:|:----:|:-----------:|:------:|:-------:|:-------:|:------------------------------------------------------:|
 |     TwiRGCN (average)   | 2022 |    -        | -      |  -  | 0.602 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
 |     EXAQT      | 2022 |    -        | -      |  - | 0.568 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
+|    QC-MHM     | 2024 |    -    | - | -  |  0.533  |[Xue et. al.](https://arxiv.org/html/2402.13188v1#Sx5) |
 |     CronKGQA   | 2022 |    -        | -      |  - | 0.466 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
 |    TempoQR     | 2022 |    -        | -      |  - | 0.465 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
 |     Graft-Net  | 2022 |    -        | -      |  - | 0.445 | [Sharma et. al.](https://arxiv.org/pdf/2210.06281.pdf) |
