@@ -52,6 +52,8 @@
 /datasets/wikidata/TimeQuestions - Ordinal
 /datasets/wikidata/TimeQuestions - Overall
 /datasets/wikidata/TKGQA
+/datasets/wikidata/MarkQA
+/datasets/wikidata/WebQuestionsSP
 /datasets/other/
 /datasets/other/COVID-QA
 /datasets/other/CrunchQA
@@ -64,4 +66,5 @@
 /datasets/other/WC2014QA - 2 Hop
 /datasets/other/WC2014QA - Total
 /datasets/other/Spider4SPARQL
+/datasets/other/ZJQA
 /systems/
