@@ -3,6 +3,7 @@
     datasetUrl: https://www.microsoft.com/en-us/download/details.aspx?id=52763
 ---
 
+
 |             Model / System             | Year |     F1     |   Hits@1   | Accuracy | Language |                                      Reported by                                      |
 |:--------------------------------------:|:----:|:----------:|:----------:|:--------:|:--------:|:-------------------------------------------------------------------------------------:|
 |                chatGPT                 | 2023 |     -      |     -      |  83.70   |    EN    |                  [Tan et al.](https://arxiv.org/pdf/2303.07992.pdf)                   |

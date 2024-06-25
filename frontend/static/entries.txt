@@ -55,6 +55,7 @@
 /datasets/other/
 /datasets/other/COVID-QA
 /datasets/other/CrunchQA
+/datasets/other/CR-LT-KGQA
 /datasets/other/DBLP-QuAD
 /datasets/other/Event-QA
 /datasets/other/MetaQA - 1 Hop
