@@ -5,6 +5,8 @@
 
 |          Model / System           | Year |Precision| Recall |  F1   | Language |                                  Reported by                                   |
 |:---------------------------------:|:----:|:-------:|:------:|:-----:|:--------:|:------------------------------------------------------------------------------:|
+|              TSET-Small             | 2024 |       |        | 72.86|    EN    |    [Qi et. al.](https://www.mdpi.com/2076-3417/14/4/1521)     |
+|              TSET-Base              | 2024 |       |        | 75.85|    EN    |    [Qi et. al.](https://www.mdpi.com/2076-3417/14/4/1521)     |
 |              QAnswer              | 2022 |  50.46  | 44.84  | 44.59 |    EN    |    [Perevalov et. al.](https://dl.acm.org/doi/pdf/10.1145/3485447.3511940)     |
 |       QAnswer-en-de-Yandex        | 2022 |  34.91  | 35.18  | 32.83 |    EN    |    [Perevalov et. al.](https://dl.acm.org/doi/pdf/10.1145/3485447.3511940)     |
 |    QAnswer-en-de-Helsinki NLP     | 2022 |  34.90  | 35.00  | 33.74 |    EN    |    [Perevalov et. al.](https://dl.acm.org/doi/pdf/10.1145/3485447.3511940)     |

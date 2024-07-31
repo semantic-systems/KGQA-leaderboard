@@ -29,3 +29,4 @@
 |      HR-BiLSTM       | 2022 |     -     |   -    |       -       |   97.5   |    EN    |  [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)   |
 |        ABWIM         | 2022 |     -     |   -    |       -       |   94.3   |    EN    |  [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)   |
 |       KV-MemNN       | 2022 |     -     |   -    |       -       |   72.2   |    EN    |  [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)   |
+|   DSAMR              | 2024 |     -     |    -    |     95.6     |    EN    |      [Sun et al.](https://www.sciencedirect.com/science/article/pii/S0957417423035947)   |

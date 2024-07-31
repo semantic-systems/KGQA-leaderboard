@@ -28,3 +28,4 @@
 |         UHop         | 2022 |     -     |   -    |       -       |   89.3   |    EN    |  [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)   |
 |        ABWIM         | 2022 |     -     |   -    |       -       |   89.3   |    EN    |  [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)   |
 |      HR-BiLSTM       | 2022 |     -     |   -    |       -       |   87.9   |    EN    |  [Wang et al.](https://aclanthology.org/2022.naacl-main.294.pdf)   |
+|   DSAMR              | 2024 |     -     |    -    |     81.7     |    EN    |      [Sun et al.](https://www.sciencedirect.com/science/article/pii/S0957417423035947)   |

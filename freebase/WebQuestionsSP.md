@@ -111,4 +111,5 @@
 |               KD-CoT                | 2024 |    50.2    |    73.7    |    -     |    EN    |                    [Sui et al.](https://arxiv.org/pdf/2405.13873)                     |
 |               ReifKB                | 2020 |     -      |    52.7    |    -     |    EN    |                 [Cohen et al.](https://arxiv.org/pdf/2002.06115.pdf)                  |
 |               KV-Mem                | 2022 |    38.6    |    46.7    |    -     |    EN    |                   [Du et al.](https://arxiv.org/pdf/2209.03005.pdf)                   |
-|            KGQA-RR(GPT2)            | 2023 |     -      |     -      |  18.11   |    EN    |                   [Hu et al.](https://arxiv.org/pdf/2303.10368.pdf)                   |
+|            KGQA-RR(GPT2)            | 2023 |     -      |     -      |  18.11   |    EN    |                   [Hu et al.](https://arxiv.org/pdf/2303.10368.pdf)  |
+|              GENConv               | 2024 |  -    |  74.64   |    -    |    EN    | [Thambi et al.](https://link.springer.com/article/10.1007/s10844-023-00839-4) |

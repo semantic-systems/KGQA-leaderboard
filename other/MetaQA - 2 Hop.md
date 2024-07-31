@@ -44,4 +44,5 @@
 |              KV-MemNN               | 2017 |  25.1  |  -   |      -      |    EN    |                [Zhang et al.](https://arxiv.org/pdf/1709.04071.pdf)                |
 |                T5+KG                | 2022 |   -    |  -   |    33.57    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)               |
 |                T5+C4                | 2022 |   -    |  -   |    32.78    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)               |
-|                 T5                  | 2022 |   -    |  -   |    32.65    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)               |
+|                 T5                  | 2022 |   -    |  -   |    32.65    |    EN    |               [Moiseev et al.](https://arxiv.org/pdf/2205.08184.pdf)     |
+|               GENConv               | 2024 |   96.97    |  -   |    -    |    EN    | [Thambi et al.](https://link.springer.com/article/10.1007/s10844-023-00839-4)    |

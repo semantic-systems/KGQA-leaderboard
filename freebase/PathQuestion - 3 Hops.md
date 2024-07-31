@@ -27,3 +27,4 @@
 |      HR-BiLSTM      | 2022 |     -     |   -    | 74.1(Hits@1)  |    EN    |    [AlAgha, 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9834917)   |
 |       MINERVA       | 2022 |     -     |   -    | 71.2(Hits@1)  |    EN    |            [Wang et al.](https://arxiv.org/pdf/2206.01818.pdf)             |
 |   Subgraph Embed    | 2023 |     -      |    -    |     50.6      |    EN    |      [Xu et al.](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_40)      |
+|   DSAMR           | 2024 |     -     |    -    |     91.1      |    EN    |      [Sun et al.](https://www.sciencedirect.com/science/article/pii/S0957417423035947)   |
